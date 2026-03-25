@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: rgb(240, 240, 240);
+}
+
+body {
+    padding-top: 70px;
+}
+
+.carousel-img.home{
+    height: 700px;
+    object-fit: cover;
+}
+
+#modalp_image {
+    height: 600px;
+    object-fit: cover;
+}
+
+#modalp_quantity{
+    width: 70px;
+}
+footer {
+    background-color: rgb(240, 240, 240);
+}
+
+.title {
+    font-family: cursive;
+}
+
+.card-img-top{
+    object-fit: cover;
+}
